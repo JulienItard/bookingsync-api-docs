@@ -1,5 +1,9 @@
 # Changelog
 
+## 2015-07-27
+
+  * [api improvement] Add `los_records` endpoint.
+
 ## 2015-07-23
 
   * [api improvement] Add `stories_count` to the `rentals` endpoint.
