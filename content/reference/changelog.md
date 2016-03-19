@@ -1,5 +1,7 @@
 # Changelog
 
+  * [api improvement] Add `rental_cancelation_policies` and `rental_cancelation_policy_items` endpoints.
+
 ## 2016-03-19
 
   * [api improvement] Add `fees`, `taxes`, `bookings_fees`, `bookings_taxes`, `rentals_fees`, `rentals_taxes`, `fees_taxes`, `tax_rules` endpoints.
